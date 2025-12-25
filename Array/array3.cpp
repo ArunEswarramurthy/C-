@@ -7,7 +7,8 @@ int main(){
     for(int i = 0 ; i < l ; i++){
         for(int j = 0 ; j < m ; j++){
             for(int k = 0 ; k<n ;k++){
-               cin>>arr[i][j][k];
+     
+                cin>>arr[i][j][k];
             }
         }
     }
