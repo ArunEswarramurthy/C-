@@ -8,6 +8,8 @@ int main(){
         for(int   j = 0 ; j < m ; j++){
             for(int k = 0 ; k<n ;k++){
      
+
+                
                 cin>>arr[i][j][k];
             }
         }
